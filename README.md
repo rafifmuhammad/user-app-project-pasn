@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <div style="display: inline-block;">
   <img src="https://rafif-tutorial.000webhostapp.com/images/Screenshot_2022-06-25-21-02-47-811_com.example.project_teori_app.jpg" width="280" height="640"/>
-  <img src="https://rafif-tutorial.000webhostapp.com/images/Screenshot_2022-06-25-21-03-08-078_com.example.project_teori_app.jpg" width="280" height="640"/>
+  <img src="https://rafif-tutorial.000webhostapp.com/images/Screenshot_2022-06-25-21-03-08-078_com.example.project_teori_app.jpg" width="280" height="640" style="margin-left: 20px;"/>
 </div>
 
